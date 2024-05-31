@@ -1,9 +1,12 @@
 body {
-    
+    background-color: white;
 }
 img. d-block w-100 {
     size: 50%;
 }
 h1{ 
     text-align: center;
+}
+p{
+    text-align: justify;
 }

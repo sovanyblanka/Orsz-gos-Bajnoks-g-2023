@@ -1,5 +1,6 @@
 body {
     background-color: #ffe6e6;
+    text-align: justify;
 }
 
 h1{ 
@@ -13,7 +14,12 @@ h2{
 }
 
 h3{
-    text-align: center;
+    text-align: left;
+    margin: 100px;
+}
+h4{
+    text-align: left;
+    margin: 100px;
 }
 
 p{

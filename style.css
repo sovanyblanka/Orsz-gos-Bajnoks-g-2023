@@ -2,6 +2,7 @@ body {
     background-color: #ffe6e6;
     text-align: justify;
     margin: 100px;
+    
 }
 
 h1{ 
@@ -29,7 +30,5 @@ p{
 }
 div{
     background-color: azure;
-}
-i{
-  
+    size: 50%;
 }

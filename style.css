@@ -29,6 +29,14 @@ p{
     margin: 100px;
 }
 div{
-    background-color: azure;
+    background-color: rgb(194, 142, 147);
     size: 50%;
+    border: 10px;
+}
+.pálya.img{
+    size: 20%;
+}
+
+.szerencsepacsi_.img{
+    width: 20%;
 }

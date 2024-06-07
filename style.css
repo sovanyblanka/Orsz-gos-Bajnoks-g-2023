@@ -31,10 +31,10 @@ p{
 div{
     background-color: rgb(194, 142, 147);
     size: 50%;
-    border: 10px;
+    margin: 2px;
 }
 .pálya.img{
-    size: 20%;
+    width: 20px;
 }
 
 .szerencsepacsi_.img{
